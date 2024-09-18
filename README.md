@@ -38,5 +38,4 @@ Welcome to the **Bitcoin Price Prediction Model**! This repository contains a de
 ## Disclaimer
 This model is for educational purposes only and should not be used as financial advice. Always perform your own research before making investment decisions.
 
-- ### Built With ❤️ by [Syed Mansoor ul Hassan Bukhari](https://github.com/cyberfantics)
-6. 
+#### Built With ❤️ by [Syed Mansoor ul Hassan Bukhari](https://github.com/cyberfantics)
